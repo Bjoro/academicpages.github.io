@@ -2,7 +2,7 @@
 title: "Pheromone-based sampling for conservation: determining the habitat requirements of *Tragosoma depsarium*"
 collection: talks
 type: "Conference presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2018-08-Tragosoma
 venue: "ISCE meeting 2018"
 date: 2018-08-14
 location: "Budapest, Hungary"
