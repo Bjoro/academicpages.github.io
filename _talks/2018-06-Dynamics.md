@@ -12,16 +12,16 @@ Saproxylic longhorn beetles include a large number of threatened species, as wel
 as indicator and flagship species for forest conservation. However, many species
 are problematic to study quantitatively with traditional methods, as they are
 dependent on ephemeral substrates such as fresh, recently dead wood. <br/>
-Using a pheromone-based trapping procedure, we conducted a two-year study measuring
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a pheromone-based trapping procedure, we conducted a two-year study measuring
 abundance of seven beetle species at 52 oak dominated forest stands and
 woodlands in Sweden. The sites were categorized into treatment stands which
 had undergone recent logging activity, controls without recent logging, protected
-key biotopes and old oak hotspots. <br/> 
-In general, treatment stands had a higher average number of beetles compared to the controls, but the effect strength varied between the years. Surprisingly, key biotopes and hotspots did not
+key biotopes and old oak hotspots. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In general, treatment stands had a higher average number of beetles compared to the controls, but the effect strength varied between the years. Surprisingly, key biotopes and hotspots did not
 perform better than the controls and had fewer beetles than the treatments. We
 conclude that logging activities in oak forests can benefit many species of
 longhorn beetles, provided that some of the wood material is left on site, but
 ecologically demanding species, e.g. *Poecilium pusillum* and *Plagionotus detritus*,
-will require more specific conservation actions. <br/> 
-In addition, pheromone-based monitoring appears to be a promising tool to study this group of elusive insects
+will require more specific conservation actions. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, pheromone-based monitoring appears to be a promising tool to study this group of elusive insects
 under field conditions.
