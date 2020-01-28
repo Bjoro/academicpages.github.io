@@ -13,4 +13,6 @@ Education
 ======
 * B.S. in Biology, Linköping University, 2014
 * M.S. in Ecology, Linköping University, 2016
-* Ph.D in Chemical Ecology, Swedish University of Agricultural Sciences, 20 (expected)
+* Ph.D in Chemical Ecology, Swedish University of Agricultural Sciences, 2021 (expected)
+
+
