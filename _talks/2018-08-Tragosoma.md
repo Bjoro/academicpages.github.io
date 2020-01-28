@@ -15,7 +15,7 @@ effects on biodiversity. Insects, which as a group constitutes a large proportio
 biodiversity have often been underrepresented in habitat surveys, often due to difficult and
 expensive survey methods. During recent years pheromone based survey methods has started
 to ameliorate these problems by allowing for large scale studies of threatened insects.
-  *Tragosoma depsarium* is a saproxylic beetle spending its larval stage inside logs of old
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tragosoma depsarium* is a saproxylic beetle spending its larval stage inside logs of old
 *Pinus sylvestris* trees. The species was previously common in large parts of Sweden but has
 declined during the last century and is today considered Near Threatened on the Swedish
 Red List. Although a large characteristic beetle, not much is known about its habitat
@@ -23,7 +23,7 @@ requirements and dispersal capacity. To investigate this a study of *T. depsariu
 was performed on a regional scale with 162 investigated potential habitats in the Swedish
 counties of Kalmar and Östergötland. A mark and recapture study was simultaneously
 conducted in a hotspot area in Kalmar county.
-  By combining, at the sites locally measured, habitat characteristics and satellite based
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By combining, at the sites locally measured, habitat characteristics and satellite based
 forest volume GIS data, models explaining species presence were created. The most
 important explanatory variables seemed to be the volume of *P. sylvestris* in a three km
 radius, the density of trees around the traps and the number of logs within 100 m of the traps.
