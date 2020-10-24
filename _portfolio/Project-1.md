@@ -1,7 +1,7 @@
 ---
 title: "Substrate Dynamics and Ecological Adaptions as key factors in Conservation of Forest Biodiversity"
 excerpt: "Conservation of rare and threatened forest insects by large scale pheromone based monitoring<br/><img src='/images/NNY-Trap.png'>"
-collection: portfolio
+collection: Projects
 ---
 
 Forestry is ever more important for the societal framework of long-term sustainability and climate change. From this
