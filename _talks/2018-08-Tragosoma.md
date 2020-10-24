@@ -7,7 +7,7 @@ venue: "ISCE meeting 2018"
 date: 2018-08-14
 location: "Budapest, Hungary"
 ---
-**Eriksson B, Nilsson A, Millar J, Milberg P, Larsson M
+**Eriksson B, Nilsson A, Millar J, Milberg P, Larsson M**
 
 Changes in forest management regimes have during the last centuries turned Swedish
 forests increasingly more homogeneous, mostly dominated by dense and young spruce
