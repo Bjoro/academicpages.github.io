@@ -7,6 +7,7 @@ venue: "10th Symposium on the Conservation of Saproxylic Beetles"
 date: 2018-06-08
 location: "St. Oswald, Germany"
 ---
+**Eriksson B, Molander M, Vestlund M, Millar J, Zou Y, Larsson M**
 
 Saproxylic longhorn beetles include a large number of threatened species, as well
 as indicator and flagship species for forest conservation. However, many species
