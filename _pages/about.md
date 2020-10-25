@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 image:
-  feature: aboda_sunset.png
+  feature: profile_v2.png
 ---
 
 I work with chemical and conservation ecology to preserve threatened insect species tied to the Swedish forest landscape. In particular I work with saproxylic species, living on dead or dying wood, substrates that has become rare with the advent of modern forestry. Although a growing number of actions to increase the amount of dead wood has been undertaken during the last decades, their effects are still largely unknown. This is in large part due to the difficulty in conducting systematic surveys and evaluations of insect population dynamics, both on habitat and landscape levels.
