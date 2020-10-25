@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /portfolio/
 author_profile: true
+image:
+  feature: profile_v2.png
 ---
 
 ## Short-term effects of logging on oak dependent longhorn beetles
