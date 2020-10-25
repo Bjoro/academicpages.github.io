@@ -2,7 +2,7 @@
 title: "The aggregation-sex pheromones of the cerambycid beetles *Anaglyptus mysticus* and *Xylotrechus antilope* ssp. *antilope*: new model species for insect conservation through pheromone-based monitoring."
 collection: publications
 permalink: /publication/2019-04-09-X-antilope
-excerpt: 'Identification of aggregation-sex pheromones of *A. mysticus* and *X. antilope*.'
+excerpt:
 date: 2019-04-09
 venue: 'Chemoecology 29'
 paperurl: 
