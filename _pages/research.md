@@ -23,4 +23,4 @@ The project aim to map the distribution of the redlisted longhorn beetle *Tragos
 The project investigates local habitat requirements of *Tragsosoma depsarium*. Utilizing a mark-recapture methodology, occupancy and dispersal characteristics of the species are evaluated.
 
 ## Chemical ecology of rare and threatened beetles
-The project aim to improve capabilities of monitoring saproxylic insects. Utilizing GCMS and EAG techniques, sex pheromones of species ecological interest is identified. Pheromone lures are synthetized to be used for effective and systematic bioassays indicator species. 
+The project aim to improve capabilities of monitoring saproxylic insects. Utilizing GCMS and EAG techniques, sex pheromones of species ecological interest are identified. Pheromone lures are synthetized to be used for effective and systematic bioassays indicator species. 
